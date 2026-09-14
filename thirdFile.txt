@@ -2,3 +2,4 @@ third file for the repo
 
 sept 14th update
 - checking git status
+- changed from VS Code
